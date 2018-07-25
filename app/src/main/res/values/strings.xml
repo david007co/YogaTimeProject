@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NamasTime</string>
+    <string name="txtMainUser">Enter User Name</string>
+    <string name="btnMainLogin">Login</string>
+    <string name="btnMainCreate">Create New User</string>
+    <string name="txtMainTitle">Yoga App</string>
+    <string name="txtCreateTitle">Create New User</string>
+    <string name="txtCreateName">Enter Name Here</string>
+    <string name="btnCreateCreate">Create New User</string>
+    <string name="btnPlayPause">Play/Pause</string>
+    <array name="Selections">
+        <item>Continue where you left off</item>
+        <item>Select a lesson</item>
+        <item>View history</item>
+        <item>Favorites</item>
+    </array>
+    <string name="imgLarge">Options Menu</string>
+    <string name="lstPoses">YogaPoses</string>
+</resources>
